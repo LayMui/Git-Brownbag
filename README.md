@@ -1,4 +1,4 @@
-# serenityBDD-brownbag
+# git-brownbag
 
 ## Project setup
 ```
