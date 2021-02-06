@@ -12,11 +12,7 @@ import git11 from './git11'
 import git12 from './git12'
 import git13 from './git13'
 import git14 from './git14'
-import t01 from './t01'
-import t02 from './t02'
-import t03 from './t03'
-import t04 from './t04'
-import t05 from './t05'
+
 
 const pages = [
   {
@@ -117,41 +113,7 @@ const pages = [
     },
     component: git14
   },
-  {
-    name: 'Technical Debt Mgt',
-    meta: {
-      title: 'Part 2: Technical Debts Mgt'
-    },
-    component: t01
-  },
-  {
-    name: '5 key traits',
-    meta: {
-      title: '5 key traits'
-    },
-    component: t02
-  },
-  {
-    name: 'Deliver High Quality Software Faster',
-    meta: {
-      title: 'Deliver High Quality Software Faster'
-    },
-    component: t03
-  },
-  {
-    name: 'Cause of Technical Debts',
-    meta: {
-      title: 'Causes of Technical Debts'
-    },
-    component: t04
-  },
-  {
-    name: 'Source of Technical Debts',
-    meta: {
-      title: 'Source of Technical Debts'
-    },
-    component: t05
-  },
+  
 ]
 
 pages.forEach((page, index) => page.path = `${index + 1}`)
