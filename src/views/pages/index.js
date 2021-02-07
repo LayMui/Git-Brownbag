@@ -12,7 +12,8 @@ import git11 from './git11'
 import git12 from './git12'
 import git13 from './git13'
 import git14 from './git14'
-
+import git15 from './git15'
+import techDebt from './techDebt'
 
 const pages = [
   {
@@ -112,6 +113,20 @@ const pages = [
       title: 'Further Commands'
     },
     component: git14
+  },
+  {
+    name: 'git15',
+    meta: {
+      title: 'Remove staged changes'
+    },
+    component: git15
+  },
+  {
+    name: 'tech debt',
+    meta: {
+      title: 'Technical Debt Management'
+    },
+    component: techDebt
   },
   
 ]
