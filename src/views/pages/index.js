@@ -13,7 +13,7 @@ import git12 from './git12'
 import git13 from './git13'
 import git14 from './git14'
 import git15 from './git15'
-import techDebt from './techDebt'
+import misc from './misc'
 
 const pages = [
   {
@@ -122,11 +122,11 @@ const pages = [
     component: git15
   },
   {
-    name: 'tech debt',
+    name: 'misc',
     meta: {
-      title: 'Technical Debt Management'
+      title: 'Branching strategy and tech debt'
     },
-    component: techDebt
+    component: misc
   },
   
 ]
