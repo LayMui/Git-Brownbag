@@ -124,7 +124,7 @@ const pages = [
   {
     name: 'misc',
     meta: {
-      title: 'Branching strategy and tech debt'
+      title: 'Some useful references'
     },
     component: misc
   },
