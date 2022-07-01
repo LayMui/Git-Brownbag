@@ -1,29 +1,3 @@
 # git-brownbag
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://blog.sffc.xyz/post/185195398930/why-you-should-use-git-pull-ff-only-git-is-a#:~:text=With%20git%20pull%20%2D%2Dff,only%20upstream%20master%20%23%20
